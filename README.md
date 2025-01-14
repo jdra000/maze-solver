@@ -1,2 +1,1 @@
-# maze-solver
-Python and Tkinter to build a GUI that solves mazes.
+Automated maze solver using DFS to navigate through a maze, from a starting point to the goal.
